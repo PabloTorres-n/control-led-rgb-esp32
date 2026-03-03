@@ -1,4 +1,5 @@
 node_modules/
+cliente-mobile/node_modules/
+servidor-api/node_modules/
 .expo/
-dist/
 npm-debug.loggit rm -r --cached .
